@@ -10,3 +10,15 @@ Los indicadores de pérdida varían de un campo a otro. Si un usuario o una usua
 En el caso de un gimnasio, tiene sentido decir que un/a cliente se ha ido si no viene durante un mes. Por supuesto, es posible que estén en Cancún y retomen sus visitas cuando regresen, pero ese no es un caso típico. Por lo general, si un/a cliente se une, viene varias veces y luego desaparece, es poco probable que regrese.
 
 Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de sus perfiles de clientes. Mi tarea consiste en analizarlos y elaborar una estrategia de retención de clientes.
+
+**Trabajo a hacer:**
+
+- Aprender a predecir la probabilidad de pérdida (para el próximo mes) para cada cliente.
+- Elaborar retratos de usuarios típicos: selecciona los grupos más destacados y describe sus características principales.
+- Analizar los factores que más impactan la pérdida.
+- Sacar conclusiones básicas y elaborar recomendaciones para mejorar la atención al cliente:
+   - identificar a los grupos objetivo;
+   - sugerir medidas para reducir la rotación;
+   - describir cualquier otro patrón que observes con respecto a la interacción con los clientes.
+
+---

@@ -11,6 +11,8 @@ En el caso de un gimnasio, tiene sentido decir que un/a cliente se ha ido si no 
 
 Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de sus perfiles de clientes. Mi tarea consiste en analizarlos y elaborar una estrategia de retención de clientes.
 
+---
+
 **Trabajo a hacer:**
 
 - Aprender a predecir la probabilidad de pérdida (para el próximo mes) para cada cliente.
